@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 adding
 
 va vaathi
+=======
+
+
+
+va  vaathi
+bhnghnhmkujytggmedxrgngt
+>>>>>>> origin/development
